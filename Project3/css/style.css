@@ -461,7 +461,7 @@ img {
 
 /* media */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
     /* hor overall */
     .section-hero, .hero-container, .container-center, .responsive-image, .responsive-image-u, .card-two, img, .head-two-title{
         width: 100%;
