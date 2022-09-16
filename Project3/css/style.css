@@ -299,7 +299,7 @@ img {
 .svg-img {
     width: 1100px;
     height: 1100px;
-    background-image: url(/images/blob.svg);
+    background-image: url(../images/blob.svg);
     background-repeat: no-repeat;
     margin: 0 auto;
 }
@@ -346,13 +346,13 @@ img {
 }
 
 .first-img {
-    background-image: url(/images/photo-1449157291145-7efd050a4d0e.jpg);
+    background-image: url(../images/photo-1449157291145-7efd050a4d0e.jpg);
 }
 .second-img {
-    background-image: url(/images/fggf-min.jpg);
+    background-image: url(../images/fggf-min.jpg);
 }
 .third-img {
-    background-image: url(/images/nbbnnb-min.jpg);
+    background-image: url(../images/nbbnnb-min.jpg);
 }
 
 /* section eight css */
