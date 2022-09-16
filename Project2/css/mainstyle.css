@@ -489,7 +489,6 @@ a:hover, .navbar-link a:hover {
     .about-container-title {
         width: 100%;
         height: auto;
-        border: red 1px solid;
     }
 
     .about-container-description {
